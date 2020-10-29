@@ -9,6 +9,7 @@
         <action name="main" class="com.zxc.action.MainAction">
             <result name="success">./main.jsp</result>
             <result name="error">/error.jsp</result>
+            <result name="input">login.jsp</result>
         </action>
     </package>
     <constant name="struts.i18n.encoding" value="GB2312"/>

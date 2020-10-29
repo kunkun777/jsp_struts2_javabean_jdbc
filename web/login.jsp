@@ -5,7 +5,8 @@
 	<title>╪РрваТят╟Е</title>
 </head>
 <body bgcolor="#E3E3E3">
-<s:form action="main" method="post" theme="simple">
+<%--<s:form action="main" method="post" theme="simple">--%>
+<s:form action="main" method="post">
 <table>
 	<caption>сц╩╖╣гб╪</caption>
 	<tr>
