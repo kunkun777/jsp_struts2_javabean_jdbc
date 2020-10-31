@@ -3,6 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/com/zxc/action/MainAction.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/zxc/jdbc/SqlSrvDBConn.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/com/zxc/model/vo/UserTable.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/zxc/model/vo/UserTable.java" charset="GBK" />
   </component>
 </project>
